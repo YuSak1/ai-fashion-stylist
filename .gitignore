@@ -1,0 +1,8 @@
+# Default ignored files
+.gradio/*
+.idea/*
+flagged/*
+venv/*
+__pycache__/*
+
+.python-version
