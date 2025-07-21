@@ -7,11 +7,11 @@ Upload a fashion item and get:
 
 🔍 Search links to fashion items
 
-Powered by OpenAI GPT-4o for outfit suggestions and Stable Diffusion for model image generation.
+Powered by OpenAI GPT-4o for outfit suggestions and DALL·E 3 for model image generation.
 
 ## Demo
 Try it on Hugging Face Spaces -> https://huggingface.co/spaces/YuSak1/AI-fashion-stylist
 
 <div align="center">
-    <img src="demo.png" width="900">
+    <img src="demo.png" width="800">
 </div>
